@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'cậu ớiiii',
     introDesc: `tớ thì khum giỏi làm thơ 
-    thui nói lun là tớ iu cậu gất nhìu`,
+    thui nói lun là tớ iu cậu gất nhìuu`,
     btnIntro: 'hihi',
     title: 'Hình như câu cậu cũng ju tớ đún ko 😙',
     desc: 'Hãy trả lời liền đi nèeeee ',
