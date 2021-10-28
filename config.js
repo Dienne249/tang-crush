@@ -10,7 +10,7 @@ const CONFIG = {
     question:'sao lại ju tui mà hok nói z '
     btnReply: 'Gửi cho tớ
     reply: 'tại zì diên qá đáng iu khum chịu nỗi'
-    mess: 'ỏ bíc gùi nhaaaa'
+    mess: 'ỏ bíc gùi nhaaaa :33'
     messDesc: 'hai tụi mik đi ún trà sữa nhaaaa'
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/settings?tab=account&section=username'
